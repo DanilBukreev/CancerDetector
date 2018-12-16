@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/DanilBukreev/vector_example.svg?branch=master)](https://travis-ci.org/DanilBukreev/vector_example)
+[![Build Status](https://travis-ci.com/DanilBukreev/CancerDetector.svg?branch=master)](https://travis-ci.com/DanilBukreev/CancerDetector)
 
 ## CancerRecognition
 
