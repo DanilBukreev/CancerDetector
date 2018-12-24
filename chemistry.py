@@ -5,7 +5,6 @@ import numpy as np
 from PIL import Image, ImageDraw
 import cv2
 import cv2 as cv
-import os
 
 
 def get_count_contours(counters):
